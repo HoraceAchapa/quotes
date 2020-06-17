@@ -6,7 +6,7 @@ Purpose Quotes
 
 This a web application that allows user to view quotes, up-vote or down-vote a quote, and also add new quotes.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
 
 ## Author
 
