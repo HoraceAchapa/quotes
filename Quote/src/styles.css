@@ -1,0 +1,52 @@
+body{
+  background-color: aqua;
+
+}
+
+.thumbsup{
+  color:rgb(0, 255, 200);
+}
+.thumbsdown{
+  color: rgb(0, 255, 234);
+}
+.container{
+  font-family: italic;
+}
+.card-quotes{
+  border-radius: 5px;
+}
+.title{
+  color:skyblue;
+  font-family: italic;
+}
+.welcome{
+  text-transform: titlecase;
+  color: skyblue;
+  font-family: italic;
+}
+.delete{
+  color: rgb(0, 255, 200);
+
+}
+.daystogo{
+  color:wheat;
+  font-size: 16px;
+}
+.form-title{
+  color: skyblue;
+  text-transform:titlecase
+
+}
+.author{
+  color: wheat;
+  font-size: 14px;
+}
+.submit-quote{
+  font-weight: bolder;
+  color: skyblue;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.quotes{
+  font-size:20px;
+}
