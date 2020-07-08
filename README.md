@@ -22,7 +22,8 @@ If there is any addition or further clarrification please contact me: tel:+25470
 codebeat
 codebeat badge
 
-Livelink
+Livelink horaceachapa.github.io/quotes/
+
 
 
 Licence
