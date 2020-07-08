@@ -25,7 +25,8 @@ The website is working okay but we are looking forward to expand it.
 If there is any addition or further clarrification please contact me: tel:+254704016774 Email:horaceachapa@gmail.com
 
 
-## Livelink horaceachapa.github.io/quotes/
+## Livelink
+horaceachapa.github.io/quotes/
 
 
 ## Licence
